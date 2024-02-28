@@ -1,7 +1,30 @@
+recipeProvider: fontprimer
+familyName: Edu NZ Basic Script
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
-axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - EduNZBasic.glyphs
+shortFamilyName: EduNZ
+variants:
+  - name: Outline
+    steps:
+      - operation: featureFreeze
+        args: -f ss02
+  - name: Cursive
+    steps:
+      - operation: featureFreeze
+        args: -f ss03
+  - name: Starters
+    steps:
+      - operation: featureFreeze
+        args: -f ss04
+  - name: Outline Arrows
+    alias: Arrows
+    steps:
+      - operation: featureFreeze
+        args: -f ss05
+  - name: Dotted
+    steps:
+      - operation: featureFreeze
+        args: -f ss06
+doGuidelines: true
+buildStatic: false
+buildColorVariable: true
