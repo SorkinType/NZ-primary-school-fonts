@@ -1,7 +1,7 @@
 recipeProvider: fontprimer
 familyName: Edu NZ Basic Script
 sources:
-- EduNZBasic.glyphs
+  - EduNZBasic.glyphs
 shortFamilyName: EduNZ
 variants:
   - name: Outline
