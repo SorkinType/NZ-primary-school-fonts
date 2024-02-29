@@ -388,9 +388,20 @@ value = 1;
 {
 name = "Variable Font Origin";
 value = m01;
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+400 = 400;
+500 = 540;
+600 = 640;
+700 = 700;
+};
+};
 }
 );
-date = "2022-03-16 02:33:55 +0000";
+date = "2024-02-29 17:28:37 +0000";
 familyName = "Edu NZ Basic Script";
 featurePrefixes = (
 {
@@ -144112,7 +144123,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)";
+value = "Copyright 2024 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)";
 }
 );
 },
@@ -144166,7 +144177,7 @@ value = "https://github.com/MezMerrit/AU-School-Handwriting-Fonts";
 },
 {
 key = vendorID;
-value = GOOG;
+value = STC;
 }
 );
 stems = (
