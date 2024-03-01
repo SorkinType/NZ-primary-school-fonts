@@ -1756,7 +1756,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2676;
+value = 2576;
 },
 {
 name = typoDescender;
@@ -1776,7 +1776,7 @@ value = -903;
 },
 {
 name = hheaAscender;
-value = 2576;
+value = 2676;
 },
 {
 name = hheaDescender;
