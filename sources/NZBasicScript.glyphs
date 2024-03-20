@@ -1051,7 +1051,7 @@ wght = {
 }
 );
 date = "2024-02-29 17:28:37 +0000";
-familyName = "NZ Basic Hand";
+familyName = "Edu NZ Basic Hand";
 featurePrefixes = (
 {
 automatic = 1;
@@ -146906,7 +146906,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)";
+value = "Copyright 2023 The NZ Primary School Fonts Project Authors (https://github.com/SorkinType/NZ-primary-school-fonts)";
 }
 );
 },
@@ -146937,7 +146937,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
@@ -146956,7 +146956,7 @@ value = "Google for Education";
 },
 {
 key = manufacturerURL;
-value = "https://github.com/MezMerrit/AU-School-Handwriting-Fonts";
+value = "https://github.com/SorkinType/NZ-primary-school-fonts";
 },
 {
 key = vendorID;

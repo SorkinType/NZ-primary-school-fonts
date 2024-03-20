@@ -1,4 +1,4 @@
-Copyright 2023 The Nz-Primary-School-Fonts Project Authors (https://github.com/googlefonts/googlefonts-project-template)
+Copyright 2023 The NZ Primary School Fonts Project Authors (https://github.com/SorkinType/NZ-primary-school-fonts)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
