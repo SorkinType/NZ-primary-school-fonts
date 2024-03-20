@@ -2,7 +2,7 @@ recipeProvider: fontprimer
 familyName: Edu NZ Basic Script
 sources:
   - NZBasicScript.glyphs
-shortFamilyName: EduNZ
+shortFamilyName: Edu NZ
 variants:
   - name: Outline
     steps:
