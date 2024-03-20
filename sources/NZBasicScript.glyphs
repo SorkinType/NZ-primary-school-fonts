@@ -1,5 +1,5 @@
 {
-.appVersion = "3243";
+.appVersion = "3217";
 .formatVersion = 3;
 DisplayStrings = (
 "__Letter:
@@ -1776,7 +1776,7 @@ value = -903;
 },
 {
 name = hheaAscender;
-value = 2676;
+value = 2576;
 },
 {
 name = hheaDescender;
@@ -2047,7 +2047,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2703;
+value = 3205;
 },
 {
 name = winDescent;
